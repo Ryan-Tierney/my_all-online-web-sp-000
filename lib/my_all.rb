@@ -15,4 +15,4 @@ def my_all?(collection)
  end 
 end
 
-my_all?(1, 2, 3, 4, 5, 6) { |1| 1 < 2}
+my_all?(1, 2, 3, 4, 5, 6) { |i| 1 < 2}
